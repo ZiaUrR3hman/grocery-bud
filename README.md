@@ -1,4 +1,4 @@
-# Color shade generator
+# grocery-bud
 
 ## Demo
 
