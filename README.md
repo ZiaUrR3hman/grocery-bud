@@ -2,7 +2,7 @@
 
 ## Demo
 
-[demo](https://ziaurr3hman.github.io/color-shade-generator/)
+[demo](https://ziaurr3hman.github.io/grocery-bud/)
 
 ## :information_source: Getting started
 
@@ -15,9 +15,9 @@
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/ZiaUrR3hman/color-shade-generator.git
+$ git clone https://github.com/ZiaUrR3hman/grocery-bud.git
 # Access this repo
-$ cd color-shade-generator
+$ cd grocery-bud
 # Install dependencies
 $ npm install
 # Run the application
